@@ -1,4 +1,4 @@
-# Lausanne/THOMAS dMRI / Structural Connectivity Pipeline
+# Lausanne / THOMAS dMRI / Structural Connectivity Pipeline
 
 This is an MRI and diffusion MRI (dMRI) processing pipeline that generates matrices of structural connectivity per subject.
 
