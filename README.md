@@ -10,8 +10,9 @@ Processing steps are organised into the following scripts:
 * THOMAS atlas parcellation [0_thomas.sh]
 * Freesurfer parcellation [1_freesurfer.sh]
 * Freesurfer refinement (control pointing) [2_freesurfer_refine.sh]
-* Conversion to Lausanne atlas [3_fs_2_lausanne.sh]
+* Conversion to Lausanne atlas [3_fs_2_lausanne.sh] (add the .annot files to fs_average folder)
 * Diffusion preprocessing [4_diffusion_preproc.sh]
 * Tractography processing [5_tractography.sh]
 * Connectome construction [6_connectome.sh]
 
+For each script, be sure to change the '[directory]' to the relevant directory on your machine. 
