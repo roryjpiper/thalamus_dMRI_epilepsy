@@ -1,0 +1,3 @@
+[directory]/sub-001
+[directory]/sub-002
+...
